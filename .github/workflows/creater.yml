@@ -2,7 +2,7 @@ name: Auto-Post Engine
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    cron: - cron: '*/3 * * * *' # التعديل هنا
   workflow_dispatch:
 
 jobs:
