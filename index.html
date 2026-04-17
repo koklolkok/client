@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO & Indexing -->
+    <title>Altana Service Catalog | Internal Test Environment</title>
+    <meta name="description" content="Access the Altana internal test service catalog. Explore high-performance APIs, trade data models, and digital twins.">
+    <meta name="keywords" content="Altana AI, Service Catalog, Digital Twin, Supply Chain AI, Internal Tools">
+    <link rel="canonical" href="https://test-service-catalog.internal.altana.ai/">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://test-service-catalog.internal.altana.ai/">
+    <meta property="og:title" content="Altana Service Catalog | Internal Hub">
+    <meta property="og:description" content="Explore and test internal services for the Altana Digital Twin.">
+    <meta property="og:image" content="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&h=630&q=80">
+
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Space+Grotesk:wght@500;700&display=swap');
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #020202;
+            color: #e5e7eb;
+        }
+
+        h1, h2, .font-heading {
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .gradient-border {
+            position: relative;
+            background: rgba(255, 255, 255, 0.03);
+            border-radius: 1rem;
+        }
+
+        .gradient-border::before {
+            content: "";
+            position: absolute;
+            top: -1px; left: -1px; right: -1px; bottom: -1px;
+            background: linear-gradient(45deg, #3b82f6, #ef4444, #10b981);
+            border-radius: 1rem;
+            z-index: -1;
+            opacity: 0.2;
+            transition: opacity 0.3s ease;
+        }
+
+        .gradient-border:hover::before {
+            opacity: 0.6;
+        }
+
+        .service-badge {
+            background: rgba(59, 130, 246, 0.1);
+            color: #60a5fa;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+
+    <!-- Navigation -->
+    <nav class="border-b border-white/5 bg-black/50 backdrop-blur-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center font-bold">A</div>
+                <span class="font-heading text-xl font-bold tracking-tight">ALTANA <span class="text-blue-500 text-sm">INTERNAL</span></span>
+            </div>
+            <div class="hidden md:flex space-x-6 text-sm font-medium opacity-70">
+                <a href="#" class="hover:text-blue-400 transition">Services</a>
+                <a href="#" class="hover:text-blue-400 transition">API Docs</a>
+                <a href="#" class="hover:text-blue-400 transition">Uptime</a>
+                <a href="#" class="hover:text-blue-400 transition">Support</a>
+            </div>
+            <div class="flex items-center space-x-4">
+                <span class="text-xs text-green-500 flex items-center">
+                    <span class="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></span> System Normal
+                </span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <header class="max-w-7xl mx-auto px-6 pt-16 pb-12 text-center md:text-left">
+        <h1 class="text-4xl md:text-6xl font-bold mb-4 tracking-tight">
+            Service <span class="text-blue-500">Catalog</span>
+        </h1>
+        <p class="text-lg opacity-50 max-w-2xl">
+            Welcome to the Altana internal test environment. Discover and integrate with our core services powererd by the world's most advanced Supply Chain Digital Twin.
+        </p>
+    </header>
+
+    <!-- Search & Filters -->
+    <section class="max-w-7xl mx-auto px-6 mb-12">
+        <div class="flex flex-col md:flex-row gap-4">
+            <input type="text" placeholder="Search services (e.g. Graph, Risk, Trade)..." 
+                   class="bg-white/5 border border-white/10 rounded-xl px-6 py-3 flex-grow focus:outline-none focus:border-blue-500 transition">
+            <select class="bg-white/5 border border-white/10 rounded-xl px-6 py-3 focus:outline-none">
+                <option>All Categories</option>
+                <option>Data Engineering</option>
+                <option>ML Models</option>
+                <option>API Gateway</option>
+            </select>
+        </div>
+    </section>
+
+    <!-- Services Grid -->
+    <main class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-24">
+        
+        <!-- Service Card 1 -->
+        <div class="gradient-border p-6 flex flex-col justify-between">
+            <div>
+                <div class="flex justify-between items-start mb-4">
+                    <span class="service-badge">Core API</span>
+                    <span class="text-green-400 text-xs font-mono">v2.4.0</span>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Knowledge Graph</h3>
+                <p class="text-sm opacity-60 mb-4">Access billions of entities and relationships within the global trade network.</p>
+            </div>
+            <div class="flex space-x-2">
+                <button class="text-xs bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-md font-bold transition">Explore</button>
+                <button class="text-xs border border-white/10 hover:bg-white/5 px-4 py-2 rounded-md transition">Docs</button>
+            </div>
+        </div>
+
+        <!-- Service Card 2 -->
+        <div class="gradient-border p-6 flex flex-col justify-between">
+            <div>
+                <div class="flex justify-between items-start mb-4">
+                    <span class="service-badge" style="color: #fbbf24; background: rgba(251, 191, 36, 0.1);">Risk Engine</span>
+                    <span class="text-green-400 text-xs font-mono">v1.0.2</span>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Entity Resolution</h3>
+                <p class="text-sm opacity-60 mb-4">Proprietary ML models for identifying and matching global business entities.</p>
+            </div>
+            <div class="flex space-x-2">
+                <button class="text-xs bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-md font-bold transition">Explore</button>
+                <button class="text-xs border border-white/10 hover:bg-white/5 px-4 py-2 rounded-md transition">Docs</button>
+            </div>
+        </div>
+
+        <!-- Service Card 3 -->
+        <div class="gradient-border p-6 flex flex-col justify-between">
+            <div>
+                <div class="flex justify-between items-start mb-4">
+                    <span class="service-badge" style="color: #10b981; background: rgba(16, 185, 129, 0.1);">Data Ops</span>
+                    <span class="text-red-400 text-xs font-mono">STABLE</span>
+                </div>
+                <h3 class="text-xl font-bold mb-2">Trade Flow Monitor</h3>
+                <p class="text-sm opacity-60 mb-4">Real-time monitoring of global shipping and customs data streams.</p>
+            </div>
+            <div class="flex space-x-2">
+                <button class="text-xs bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-md font-bold transition">Explore</button>
+                <button class="text-xs border border-white/10 hover:bg-white/5 px-4 py-2 rounded-md transition">Docs</button>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Internal System Stats -->
+    <section class="max-w-7xl mx-auto px-6 py-12 bg-white/5 rounded-3xl mb-24">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+            <div>
+                <div class="text-3xl font-bold text-blue-500">99.9%</div>
+                <div class="text-xs opacity-50 uppercase tracking-widest mt-2">Avg Uptime</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-blue-500">12ms</div>
+                <div class="text-xs opacity-50 uppercase tracking-widest mt-2">P95 Latency</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-blue-500">42</div>
+                <div class="text-xs opacity-50 uppercase tracking-widest mt-2">Active Services</div>
+            </div>
+            <div>
+                <div class="text-3xl font-bold text-blue-500">1.2B</div>
+                <div class="text-xs opacity-50 uppercase tracking-widest mt-2">Daily Req</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-white/5 py-12 px-6">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center opacity-40 text-xs">
+            <div class="mb-4 md:mb-0">
+                © 2024 ALTANA AI. PROPRIETARY AND CONFIDENTIAL.
+            </div>
+            <div class="flex space-x-6 font-mono">
+                <span>ENV: TEST</span>
+                <span>REGION: US-EAST-1</span>
+                <span>DOMAIN: test-service-catalog.internal.altana.ai</span>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>
