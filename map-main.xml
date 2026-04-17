@@ -10500,4 +10500,3504 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B5-%D9%85%D8%B3%D8%B1%D8%A8-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%82%D9%88%D8%A7%D8%B9%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/diags-mode-zero-day-bitbucket-webhook-secret-leak-one-click.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/zipkin-base-hack-web3-hack-amazon-alexa-voice-recording-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%88%D8%AF-apk-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-redis-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/amazon-aws-rds-dump-digitalocean-mysql-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%AE%D9%81%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/mitmproxy-torch-dirty-cow-dirty-cow-future-restore-ntp-amplification-aws.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nmap-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D8%AB%D8%BA%D8%B1%D8%A9-log4shell-%D9%85%D8%AA%D8%AC%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%D9%8A-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-firestore.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/dump-database-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%B3%D9%8A%D9%85%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/public-records-aws-outposts-rack-config-pwnagotchi-icloud-calendar-leak-linode-b.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D9%81%D8%AF%D9%8A%D8%A9-%D8%B9%D8%A8%D8%B1-%D8%A7%D9%84%D8%A8%D8%B1%D9%8A%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AB%D8%BA%D8%B1%D8%A9-log4j-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%84%D9%81-env-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%87%D9%88%D9%84%D9%88-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/joe-sandbox-amazon-phone-number-leak-virustotal.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/whitepages-fixed-code-purple-team-icloud-note-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/apple-m2-bluejacking-whitehouse-market-google-cloud-ai-platform.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D8%B3%D8%B1-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%B3%D8%B1%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/digitalocean-vpc-config-leak-mysql-brute-drozer-hetzner.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D8%A7%D9%8A%D9%86.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AF%D8%A7%D8%AA%D8%A7-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D9%83%D8%A7%D8%B1%D8%AA-%D9%85%D9%82%D9%84%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA-%D9%87%D9%88%D9%85-%D8%B9%D9%86%D9%88%D8%A7%D9%86.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/polygon-hack-beacon-flood-age-uboot-exploit-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%84%D9%8A%D9%83-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-vercel-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%A7%D9%88%D8%B3-%D8%AB%D8%BA%D8%B1%D8%A9-zerologon-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B3%D8%AD%D8%A7%D8%A8%D8%A9-%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D9%84.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%84%D9%8A%D9%86%D9%83%D8%B3-%D9%84%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%87%D8%A7%D8%B2-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-usb-%D8%A7%D8%B3%D8%AA%D8%BA%D9%84%D8%A7%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A8%D8%A7%D8%B1%D9%88%D8%AA-%D8%B3%D9%8A%D9%83%D9%8A%D9%88%D8%B1%D9%8A%D8%AA%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-dirb-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D9%81%D8%B8%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-netlify-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D8%AC%D9%84-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%81%D8%AD%D8%B5-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%AC%D9%84%D8%B3%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/reddit-private-message-archive-apple-contacts-leak-azure.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%8A-%D8%A8%D8%A7%D9%84-%D9%87%D9%83%D8%B1-%D9%81%D9%84%D8%A7%D8%A8%D9%8A%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%A8%D8%AF%D9%8A%D9%84-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/shoulder-surfing-lfi-linkedin-2fa-bypass-windbg-reddit-phone.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-vpc-flow-log-leak-reddit-upvote-bot-jigsaw-alarm.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%86%D9%83-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-github-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/netflix-profile-pin-bypass-soft-brick-osint-google-cloud-vpc-flow-log.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%84%D8%A7%D9%8A%D9%86-%D8%AA%D9%83%D8%B3%D8%AA-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%A7%D9%8A%D9%86%D9%83%D8%B1%D8%A7%D9%81%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A2%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/charles-proxy-rotten-potato-dhcp-spoofing-exif-data-spideroak-backup-archive.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%88%D8%AF-apk-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-netlify-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-icloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/burp-suite-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-google-cloud-github-dork-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bbupdate-canary-token-watering-hole-cve-2023-27350-tsung.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D8%B3%D8%B1%D8%A8-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D9%8A%D9%85-%D8%A8%D8%A7%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-sqlmap-badusb-%D8%AA%D9%88%D9%83%D9%8A%D9%86-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-outposts-rack-config-cerber-tempo-bluesnarfing-anyproxy-cve-2017-0144-linode.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/markov-chain-ollydbg-socrelay-telemetry-aws-chime-chat-archive.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/tendermint-consensus-facebook-phishing-page-scaleway-api-key-leak-safepal-cutter.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/forensics-loader-snapchat-2fa-bypass-http-flood-sweet-potato-firewire-attack.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D9%8A-%D8%A8%D8%A7%D9%86%D9%84-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%B3%D8%B1%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/samsung-health-digitalocean-database-cluster-dump-jd-gui-onlykey-netcat.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1-%D8%B1%D9%82%D9%85-%D9%87%D9%83%D8%B1-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-ftp-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%82%D8%AF%D9%8A%D9%85-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%83%D8%A7%D8%B1%D8%AF%D9%8A%D9%86%D8%AC-%D9%87%D9%83%D8%B1%D8%B2-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%AA%D9%8A%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D9%85%D8%AA%D8%AC%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D8%A7%D9%83%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%AA%D8%B5%D9%8A%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A8%D9%86%D9%83.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-nfc-%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-stream-video-leak-fiddler-assembly-injection-uboot-exploit.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/tiktok-data-leak-leaked-data-rollbar-rdtsc-facebook.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%A8%D9%88%D8%AA%D9%8A%D9%81%D8%A7%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%88%D8%B1%D8%B5%D8%A9-%D8%B3%D8%AD%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/access-control-healthcare-leak-whatsapp-chat-backup.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/car-key-fob-diags-mode-bestbuy.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%AF%D8%A7%D8%A9-%D8%AA%D8%AC%D8%B3%D8%B3-%D8%B3%D9%88%D9%82-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%B5%D9%88%D8%B1%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%83%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-github-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/digitalocean-api-token-leak-load-test-cluster-crack-keylogger-circom.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D9%88%D8%B1%D9%83%D8%B1%D8%B2-%D9%83%D9%84%D8%A7%D9%88%D8%AF%D9%81%D9%84%D9%8A%D8%B1-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-%D8%AE%D8%A7%D8%B5-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/hashcat-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%87%D9%83%D8%B1-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D9%88%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D9%84%D8%A7%D9%88%D8%AF%D9%81%D9%84%D9%8A%D8%B1-%D9%87%D9%83%D8%B1-%D9%81%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B5%D8%B1%D8%A7%D9%81.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/csrf-pastesite-gitlab-snippet-leak-snapchat-bitmoji-leak-voltpillage-tresorit-ac.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%87%D9%83%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2022-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D9%84%D9%88%D8%AD%D8%A9-%D8%AA%D8%AD%D9%83%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rowhammer-synccom-share-link-leak-spotify-email-dump-optimism-hack-wasm-hack-sha.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/animal-tag-haveibeenpwned-vultr-load-balancer-config-badrabbit-apk-tool-instagra.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rdrand-camellia-arkworks-hping3-eclipse-attack-onion-search-apple-calendar-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/snapchat-data-leak-windbg-hetzner-robot-config-leak-box-data.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D9%81%D8%AF%D9%8A%D8%A9-%D8%B7%D9%84%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D8%AB%D8%BA%D8%B1%D8%A9-pwnkit-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/people-search-mask-attack-dhcp-spoofing-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D9%8A%D9%81-%D9%81%D9%8A%D8%B1%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%86%D8%B8%D8%A7%D9%85-%D9%85%D9%84%D8%A7%D8%AD%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%B3%D9%8A%D9%85%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AB%D8%BA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%83%D8%AA%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-rockyou.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D8%B1%D9%8A%D9%85%D9%8A%D9%88%D9%85-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-google-cloud-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D8%A8%D9%88%D9%86-%D8%A8%D8%B1%D9%8A%D8%AA%D8%B4-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AD%D8%B3%D8%A7.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sigma-rule-twitter-comment-scraper-scaleway-database.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2023-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%B3%D9%8A%D9%85%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D9%84-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%AE%D9%81%D9%8A-%D8%A8%D9%84%D8%A7%D9%8A%D9%86-%D8%AA%D9%83%D8%B3%D8%AA-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%87%D9%83%D8%B1-%D8%A7%D8%AF%D9%88%D8%A7%D8%AA-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%83%D8%B1-%D9%88%D8%A7%D8%AC%D8%A8-%D9%87%D8%A7%D9%83%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%AB%D8%BA%D8%B1%D8%A9-dirty-cow-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2023.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2025-sql-dump-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D9%84%D9%81-%D8%A8%D9%88%D8%AA-%D8%AB%D8%BA%D8%B1%D8%A9-zerologon.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-meet-recording-leak-amd-gpu.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/dhcp-spoofing-avx2-slowloris-ssl-kill-switch-azure-devops-artifact.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/box-data-leak-gitlab-runner-token-leak-pairing-crypto.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D8%A7%D9%83-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ipsw-github-discussion-leak-github-secrets-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D9%88%D8%AA%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B9%D9%86-%D8%B7%D8%B1%D9%8A%D9%82-ss7-%D9%87%D9%83%D8%B1-%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D8%A7%D8%AF%D9%88%D8%A7%D8%AA-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/srsran-kvm-whois-rsync-leak-digitalocean-database-cluster-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%8A%D8%A7%D9%86%D8%AA-%D8%A3%D8%B1%D9%82%D8%A7%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/synccom-audit-log-dump-twitter-api-key-leak-falcon.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%AE%D8%AA%D8%B1%D9%82-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-gitlab-%D8%B1%D9%88%D8%A8%D9%84%D9%83%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ovh-vrack-config-dump-telegram-channel-video-download-rugpull.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/icloud-family-sharing-leak-dropbox-paper-doc-leak-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-sql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B3%D8%AD%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spotify-email-dump-twitter-like-bot-eclipse.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-s3-bucket-policy-misconfig-hash-extension-skimmer-macos-exploit-icloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AA%D9%83%D9%88%D9%8A%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%82%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/icloud-reminder-leak-google-cloud-sql-database-dump-spokeo-aes-rogue.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%AA%D8%B3%D9%88%D9%82-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%8A%D9%86%D9%83%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bitbucket-deployment-key-leak-spideroak-share-room-leak-tiktok.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D9%88%D9%83%D9%8A%D8%B2-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%8A%D9%86%D8%A7%D9%86%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%D9%8A-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-redis.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gobuster-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D9%8A%D8%B2%D9%88%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%8A%D8%B2%D9%86%D9%8A-%D8%A8%D9%84%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cashout-arm-neon-secure-folder-twitter-api-key-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sqlmap-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2025-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A8%D8%AF%D9%88%D9%86-%D8%A8%D8%A7%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%8A%D8%B2%D9%86%D9%8A-%D8%A8%D9%84%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%84%D8%A7%D9%8A-%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%87%D9%83%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA-%D8%A3%D8%AF%D9%85%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A5%D9%8A%D9%85%D9%8A%D9%84-%D9%88%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D9%82%D8%A7%D8%B1%D8%A6-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%87%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-asset-inventory-dump-bestbuy-account.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D8%A7%D8%A8%D8%B7-%D8%AA%D8%B5%D9%8A%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%88%D8%AA-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/lan-turtle-google-photos-backup-leak-plaintext-leak-vnc.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/john-the-ripper-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AF%D9%8A%D9%81%D8%A7%D9%8A-google-cloud-storage-%D9%85%D8%B3%D8%B1%D8%A8-%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-nikto-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%B1%D9%83%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%81%D9%8A%D8%B4%D9%8A%D9%86%D8%AC-%D8%AD%D9%82%D9%86-sql-%D8%AA%D9%88%D9%83%D9%86-%D9%85%D8%B3%D8%B1%D9%88%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/mobsf-51-attack-google-cloud-deploy-pipeline-leak-ettercap-shhgit-pcap-analysis.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D9%8A%D8%AF%D9%8A%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%AA%D8%B5%D9%8A%D8%AF-%D8%B6%D8%B9%D9%81-%D9%83%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AF%D8%B1%D9%88%D9%86-%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D8%B3%D9%8A%D8%AF-%D9%81%D8%B1%D9%8A%D8%B2.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-rfid-nikto-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%87%D9%83%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/mega-file-dump-aws-ssm-command-leak-scaleway-vpc.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-sql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/pcie-attack-digitalocean-load-balancer-config-filza-ovh-object.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-webhook-spam-linkedin-data-leak-keylogger-wardriving.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/jenkins-leak-hetzner-project-info-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%84%D8%A7%D9%8A-%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%A8%D9%88%D8%AA%D9%8A%D9%81%D8%A7%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%83%D9%84%D9%85%D8%A9-%D8%B3%D8%B1-%D9%88%D8%A7%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/plonk-sqli-redis-leak-digitalocean-team-member-list-ice-phishing-multiparty-comp.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-hetzner-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%86%D9%82%D8%A7%D8%B7-%D8%A8%D9%8A%D8%B9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/digitalocean-kubernetes-kubeconfig-mongodump-financial-leak-zap-juicy-potato.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2026-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%A8%D9%88%D8%AA%D9%8A%D9%81%D8%A7%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%AB%D8%BA%D8%B1%D8%A9-dirty-pipe-%D8%A8%D8%B1%D9%8A%D8%AA%D8%B4-%D8%AA%D9%88%D9%83%D9%86-%D9%85%D8%B3%D8%B1%D9%88%D9%82-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/combolist-snapchat-data-leak-aws-apprunner-service-leak-airbnb-guest-email-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bitbox-yahoo-breach-2014-xerxes-cold-boot-attack-microsoft-azure-blob.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vcenter-instagram-osint-cve-2017-0144-sandboxed-subfinder-telegram-channel-membe.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vultr-api-key-leak-mitmproxy-apple-m4.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/wannacry-linkedin-data-leak-pf_ring-pass-the-ticket-flent-hyper-v-seclists.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/exiftool-deanonymization-ethical-hacking-arm-neon-cloudflare.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%BA%D9%8A%D9%8A%D8%B1-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-%D9%84%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D9%82%D9%85-%D9%87%D8%A7%D8%AA%D9%81-%D9%88%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-firebase-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A2%D8%A8%D9%84-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%83.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D9%88%D9%82-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84-%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D9%8A%D9%83-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-icloud-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA-%D8%A3%D8%AF%D9%85%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AE%D8%A7%D8%B5%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/redline-stealer-court-records-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9-%D9%83%D8%A7%D8%A8%D9%84-%D9%87%D8%A7%D9%83%D8%B1-%D9%88%D9%88%D8%B1%D8%AF%D9%84%D9%8A%D8%B3%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-mysql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-aws-s3-%D8%B3%D9%8A-%D8%B3%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AF%D8%A7%D8%AA%D8%A7-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B4%D9%87%D8%A7%D8%AF%D8%A9-ssl-%D9%81%D9%84%D8%A7%D8%A8%D9%8A%D8%B1-%D8%B2%D9%8A%D8%B1%D9%88-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%83%D8%B4%D9%81-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/monkeydev-mitm-proxy-ntlm-relay-xposed-microsoft-account.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/proton-drive-file-dump-sniffing-obd-triage-netcat-packet.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/zipkin-github-wiki-leak-bn254-netflix-download-offline-leak-linkedin-api-key-exp.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gnark-gpg-google-cloud-workflow-definition-google-cloud-organization-policy-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%A7%D9%88%D8%B1-%D8%A8%D8%A7%D9%86%D9%83-%D9%87%D8%A7%D9%83%D8%B1-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%83%D8%A7%D9%85%D9%84-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-2fa.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-hetzner-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-%D9%88%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%88%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/usb-attack-libimobiledevice-config-leak-zk-stark-mssql-brute-ncat-aws-eks-kubeco.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/telegram-channel-username-history-botnet-gps-jammer-backup-file.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%8A%D8%B2%D9%86%D9%8A-%D8%A8%D9%84%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nfc-attack-uber-rating-manipulation-rootkit-sniffing.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rdseed-mat2-google-cloud-vault-leak-truthfinder-iperf3-whois-dehashed-ovh.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%AA%D8%A3%D9%83%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AF%D9%88%D9%86%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-codecommit-repo-dump-google-cloud-secret-manager-dump-privesc-win-sigfox.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/plonk-semi-untethered-spideroak-zero-knowledge-bypass-mutilate-mega.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%84%D8%A7%D9%83-%D8%A2%D8%B1%D8%AA%D8%B4-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-linode-%D9%87%D9%83%D8%B1-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gramps-google-cloud-vpc-flow-log-scaleway-asic-crack-uber-eats.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%88%D9%88%D8%B1%D8%AF%D9%84%D9%8A%D8%B3%D8%AA-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%A7%D8%A6%D8%AA%D9%85%D8%A7%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%8A%D9%85%D9%8A%D9%84-%D9%82%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%87.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%AA%D8%A8%D8%B9-%D8%A7%D9%84%D9%85%D9%88%D9%82%D8%B9-%D8%AAails-%D8%B5%D9%81%D8%AD%D8%A9-%D8%AA%D8%B5%D9%8A%D8%AF-%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sqlmap-%D8%AC%D9%87%D8%A7%D8%B2-%D8%B3%D9%83%D9%8A%D9%85%D8%B1-atm-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D9%84%D8%B3%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/inmarsat-dumps-track1-track2-google-account-hack-vmware.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-oracle-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%A7%D8%B3%D8%AA%D8%B1%D9%83%D8%A7%D8%B1%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nfc-magic-card-snapchat-data-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cashout-ledger-ldap-brute-home-location-register-halo2-arbitrum-hack-instagram-b.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ecrecover-objection-instagram-email-dump-untethered-cloudflare-firewall-rule-dum.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D9%88%D9%85%D8%A8%D9%88-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%B7%D9%84%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/wpa2-crack-time-travel-debug-contabo-tresorit-data.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/petya-exploit-slack-bot-cloudflare-access-policy-dump-obd2-hack-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nmap-%D9%81%D9%84%D8%A7%D8%B4-%D9%84%D9%88%D9%86-%D8%A8%D8%A7%D9%82%D8%A9-%D9%86%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%84%D9%8A%D9%83-%D8%B3%D9%83%D9%8A%D9%85%D8%B1-%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/custom-rom-darknet-market-yardstick-one-cloudflare-magic-transit-rule.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%84%D8%A7%D9%8A%D9%86-%D8%AA%D9%83%D8%B3%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-google-cloud-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%AA%D8%B5%D9%8A%D8%AF-%D8%B1%D9%88%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aircrack-ng-webex-bot-badrabbit-loki-telegram-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/salsa20-discord-server-role-permission-exploit-imei-change-magniber-suhide-yahoo.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%B3%D9%8A-%D8%B3%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/expedia-hack-uber-eats-order-leak-cryptor.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spoofing-hawkeye-icloud-device-backup-extraction-dehashed-airbnb-review.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rr-debug-ssti-railway-sandwich-attack-cryptolocker-yahoo-recovery-phone-dump-git.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2025-%D8%AB%D8%BA%D8%B1%D8%A9-text4shell-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D9%84-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-log4j.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/subfinder-data-broker-template-injection-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/zip-encryption-vultr-nitrokey-facebook-account-clone.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/reddit-upvote-bot-pcie-attack-snusbase-session-sniff-linode-database-cluster-dum.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/xss-digitalocean-dns-zone-dump-nothing-at-stake-openbts-dirsearch-whatsapp.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%83%D8%A7%D9%85%D9%84-%D9%85%D8%AA%D8%AC%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A3%D8%B6%D8%AE%D9%85-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%86%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nginx-proxy-brick-device-venmo-scam-cerber.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/avx512-hacktv-code-injection-mega-2fa-bypass-aws-apprunner-service.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%AA%D8%B5%D9%8A%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D9%85%D8%AD%D8%A7%D9%85%D9%8A-%D8%AC%D8%B1%D8%A7%D8%A6%D9%85-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-text4shell-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/twitter-trend-manipulation-prince-attack-ab-dns-leak-cyclic-netperf-scaleway.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/snmp-community-proxyshell-jira-leak-proxyman-firmware-mod-rolling.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nmap-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-sql-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%83%D8%A7%D8%B1%D8%AF%D9%8A%D9%86%D8%AC-%D8%B1%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%8A-%D8%A8%D8%A7%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/reddit-osint-salsa20-hetzner-server.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%B1%D9%82%D8%A7%D9%85-%D9%87%D9%88%D8%A7%D8%AA%D9%81-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B3%D9%83%D8%B1%D9%8A%D8%A8%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%A3%D9%83%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-photos-backup-leak-llmnr-poison-satellite-hack-gpg.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/amazon-order-history-leak-ble.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/omg-cable-cross-site-scripting-libusb-instagram-password.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D9%8A%D9%86%D8%AA%D9%86%D8%AF%D9%88-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/zkutil-aws-shield-config-dump-ssdp-amplification.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9-%D9%83%D8%A7%D8%B4%D9%8A%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%8A%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%B1%D9%83%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/keepass-scaleway-block-storage-snapshot.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/social-engineering-obd-mev-bot-hid-iclass-markov.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-workflow-definition-email-alert-mitm6-silver-ticket-linode-object.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%83-%D8%AA%D9%88%D9%83-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AF%D9%88%D9%86%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%87%D9%83%D8%B1-%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sam-dump-ubertooth-untethered-ec2-instance-mev-bot-vultr-subscription-info-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/layer4-attack-google-docs-permission-abuse-proton-drive-revision-history-digital.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/uber-trip-history-leak-mterminal.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%A3%D9%83%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D9%87%D8%A7%D9%83%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%83%D8%B3%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sigfox-tailgating-shodan-asic-crack-sha2-length-netdiscover-hive-zkutil-gramps-c.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/image-metadata-ntp-amplification-recovery-code-ios.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%AF%D9%88%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D9%84%D8%B3%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%A7%D8%B1%D9%88%D8%AA-%D8%B3%D9%8A%D9%83%D9%8A%D9%88%D8%B1%D9%8A%D8%AA%D9%8A-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%88%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-tasks-queue-leak-dhcp-spoofing-golden-ticket.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AF%D9%88%D9%85%D9%8A%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D9%88%D8%AA%D8%B1-%D8%AA%D9%88%D9%83%D9%8A%D9%86-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF-%D9%85%D8%B3%D8%B1%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/windbg-snusbase-keylogger-cloudflare-workers-code-dump-icloud-bookmark-leak-logi.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vultr-database-cluster-dump-synccom-team-folder-leak-immunity.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%B3%D9%8A%D9%85%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%84%D9%8A%D9%83-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-bitbucket-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D9%87%D9%83%D9%8A%D8%B1-%D8%A7%D9%84%D8%A5%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-rfid-gobuster-%D9%83%D9%88%D8%AF-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AF%D8%A7%D8%AF-%D9%85%D8%B3%D8%B1%D8%A8-%D9%86%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-r2-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-bigtable-table-dump-vultr-object-storage-bucket-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/femto-cell-ncat-forward-proxy.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%AB%D8%BA%D8%B1%D8%A9-pwnkit-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AF%D9%8A%D9%81%D8%A7%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bridge-exploit-ida-pro-odyssey-nothing-at.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/managed-device-keepass-side-channel.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/blueborne-aws-sns-topic-exposure-pentesting-cloudflare-api-token-leak-vultr.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-firebase-%D8%B5%D9%81%D8%AD%D8%A9-%D8%AA%D8%B5%D9%8A%D8%AF-%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AF%D9%88%D9%85%D9%8A%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D8%A7%D9%85%D9%84.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-github-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%86%D9%83-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ettercap-parallels-deanon-ios-exploit-railway-digitalocean-app-platform.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AA%D8%AC%D8%B1-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%B3%D9%8A-%D8%B3%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%A7%D8%AF%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/snapchat-email-dump-sqlmap-blake3-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D8%AF%D9%81%D9%88%D8%B9%D8%A9-%D9%85%D8%AC%D8%A7%D9%86%D8%A7-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D9%88%D9%83%D9%86-%D9%85%D8%B3%D8%B1%D9%88%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-vultr-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/dumps-track1-track2-github-leak-discord.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/trusted-setup-hailstorm-leakcheck-uber-data-leak-wipe-disk-eternalblue-redis.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/wasm-hack-reaver-word-metadata-hash-leak-ios-exploit-twitter-mass-follow-bot.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/forward-proxy-google-cloud-organization-policy-leak-cloudflare-email-routing-rul.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aes-crypt-rotten-potato-theharvester.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/reddit-subreddit-member-list-blowfish-safe-folder-cloudflare-tunnel-config-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%8A%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%AB%D8%BA%D8%B1%D8%A9-log4j-%D8%AB%D8%BA%D8%B1%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-2fa-%D9%87%D8%A7%D9%83%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%83%D9%88%D8%AF-%D8%AE%D8%B5%D9%85-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%81%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%AA%D8%A8%D8%AF%D9%8A%D9%84-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D9%8A%D8%AF%D9%8A%D8%AA-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-redis-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D9%88%D8%A8%D9%84%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D9%83%D9%88%D8%AF-%D8%A5%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D8%B1%D8%B3%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-talent-solution-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-browser-isolation-leak-azure-devops-board-export-wire-transfer-fraud-.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/postgres-brute-telemetry-bestbuy-account-booter-google-app-engine-code-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/yatebts-insecure-deserialization-buzzer-bind-shell-dehashed-reddit-saved-post-le.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/mdm-bypass-google-cloud-leak-dcsync-passbolt.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/totp-secret-target-account-google-cloud-tasks.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/windows-exploit-openbts-spotify-playlist-leak-vultr-backup.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vultr-firewall-rule-leak-switch-attack.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2024-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/icloud-bookmark-leak-breach-directory-gate-code-flent-cve-2022-22965.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/microsoft-sharepoint-leak-leaked-data-box-api-key-exposure-windows-exploit.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/passive-dns-github-leak-mac-flooding-defi-hack-cold-boot-attack.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vultr-kubernetes-kubeconfig-twitter-api-key.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/signature-malleability-mega-folder-key-exposure-gitlab-snippet-leak-vultr.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-compilation-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%83%D8%B4%D9%81.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A5%D9%83%D8%B3%D8%A8%D9%84%D9%88%D9%8A%D8%AA-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%A7%D9%88%D8%B3-%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D9%8A%D9%83-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ftp-leak-access-control-dns-amplification-ble-attack-telegram-channel-data-leak-.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B2%D9%8A%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-cve-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D8%A7%D9%85%D9%84-%D8%B4%D8%B1%D8%AD-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/telegram-secret-chat-exploit-bro-ids-pe-studio.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sudo-exploit-john-the-ripper.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/telegram-channel-poll-abuse-zk-prove-shred-file-aws.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/tiktok-algorithm-exploit-markov-chain-google-cloud-video-intelligence-labels.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-workers-env-var-leak-avx512-censys-aws-secrets-manager.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/metal-seed-ovh-dns-zone-transfer-delegatecall.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D9%88%D8%A8%D9%88%D9%86%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%81%D8%AF%D9%8A%D8%A9-%D9%87%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spoofing-whatsapp-mod-hack-packet-crafting-ecrecover-aws-ec2-user.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sharepoint-leak-github-ssh-key-dump-instagram.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/managed-device-keyless-entry-relay-semi-untethered-hacking-windbg.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/trezor-team-password-datadog-winrm.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%AA%D9%8A%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%87%D9%83%D8%B1-%D8%A8%D9%8A%D9%86%D8%A7%D9%86%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%88%D8%AC%D9%84-%D8%A8%D8%A7%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%86%D9%83-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AE%D9%81%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B5%D8%B1%D8%A7%D9%81-%D8%B3%D8%B1%D9%82%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-rockyou-%D9%87%D8%A7%D9%83%D8%B1-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-firebase-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D9%8A%D8%B2%D9%88%D8%B1-%D8%B7%D9%84%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%8A%D9%86%D9%83%D8%AF-%D8%A5%D9%86-azure-blob-%D9%85%D8%B3%D8%B1%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-google-home-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/linode-database-cluster-dump-ollydbg-timelock-bypass-mutilate-xpath-injection-he.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-server-backup-download-icloud-drive-file-leak-dns-leak-driftnet-telegram.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-hashcat-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-breach-database-%D8%AA%D9%88%D9%83%D9%8A%D9%86.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%88%D8%AF-apk-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D9%86%D8%B5%D8%A9-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%A7%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B9%D9%85%D9%84%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%81%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D8%A7%D8%B4%D8%A7%D8%A8-%D9%83%D9%88%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D9%84%D8%B9%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B2%D9%8A%D9%84-%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D9%88%D8%B1-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B9%D9%85%D9%84%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D9%83%D8%B3%D8%B1-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/asreproasting-discord-email-finder-parallels-snapchat-chat.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-mongodb-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%87%D9%86%D8%AF%D8%B3%D8%A9-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-log4shell.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cerber-avax-hack-ledger-cloudflare-api-token-leak-google-cloud-organization-poli.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%B1%D9%8A%D8%AA%D8%B4-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-compilation-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%AB%D8%BA%D8%B1%D8%A9-log4shell-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A%D8%B2%D8%A7-%D8%B4%D8%B1%D8%AD.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%8A%D8%AA%D8%A7%D9%85%D8%A7%D8%B3%D9%83-%D9%85%D8%B3%D8%B1%D9%88%D9%82-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D9%8A%D8%A8%D9%8A%D9%83-%D8%AC%D9%8A%D9%85%D8%B2-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-john-the-ripper.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D8%B3%D8%B1-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D9%87%D9%83%D8%B1-%D9%88%D8%A7%D9%8A%D9%81%D8%A7%D9%8A-%D8%AB%D8%BA%D8%B1%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-icloud-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-dirty-cow-%D8%AF%D9%88%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%AD%D8%AB-%D8%B9%D9%86-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA%D9%8A-%D8%A7%D9%84%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%86%D8%B5-%D9%88%D8%A7%D8%B6%D8%AD-hashcat-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%86%D9%83.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D8%AB%D8%BA%D8%B1%D8%A9-eternalblue-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D8%A5%D9%8A%D9%85%D9%8A%D9%84-%D9%88%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-elasticsearch.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/filza-gdb-shodan-loader-breach-digitalocean-vpc-config-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/hard-brick-instagram-password-reset-hack.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B5%D9%81%D8%AD%D8%A9-%D8%AA%D8%B5%D9%8A%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D9%88%D8%AC%D9%84-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AF%D9%88%D9%86%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ttcp-length-extension-jenkins-leak-netflix.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-mysql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bark-twitter-retweet-bot-facebook-ad-account.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/evil-twin-crtsh-vault-botnet-samsung-knox-seed-backup-github-dependency-graph.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-run-env-var-leak-microsoft.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D9%81%D8%B8%D8%A9-%D9%85%D9%8A%D8%AA%D8%A7%D9%85%D8%A7%D8%B3%D9%83-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/envoy-home-location-register-document-sanitizer-rttest-side-channel-attack-tethe.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-s3-bucket-public-listing-impacket-ibc-attack-virtualbox.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-github-%D8%A5%D9%8A%D9%85%D9%8A%D9%84%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-123456.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/capability-hostapd-pixiewps-netflix-recommendation-algorithm-scrape-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/snort-dropbox-recovery-email-leak-opcode-exploit.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spotify-follower-bot-exiftool-vishing-pcie-attack-word-metadata-keyless-entry.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AA%D8%AC%D8%B1-cc-dump-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/container-breakout-arm-neon-code-server-wallet-leak-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/seed-backup-dsniff-liberios-ovh-load-balancer.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/apple-id-password-reset-hack-wasm-hack-twitter-circle.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D9%87%D9%83%D8%B1%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-collection-1-%D9%83%D8%A7%D8%B1%D8%AA-%D9%85%D9%82%D9%84%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-storage-%D9%85%D8%B3%D8%B1%D8%A8-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%B3%D8%B1%D8%A8-%D8%A8%D8%B1%D9%8A%D8%AA%D8%B4-%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%86%D8%B3%D8%AE-%D9%83%D8%A7%D8%B1%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D9%83%D9%86-%D9%85%D8%B3%D8%B1%D8%A8-azure-blob-%D9%85%D8%B3%D8%B1%D8%A8-%D9%81%D9%84%D8%A7%D8%B4-%D9%84%D9%88%D9%86-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D9%82%D8%AF%D9%8A%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AA%D8%AC%D8%B1-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-nikto-hydra-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AA%D8%AC%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/reddit-post-scraper-gift-card-brute-sha3-sponge-scaleway-dns-zone.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/marauder-aws-codedeploy-config-dump-elasticsearch-leak-secure-delete-snapchat-ph.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ovh-load-balancer-config-zoomeye-bnb-hack-bladerf-amateur.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D9%88%D8%AA%D9%88%D8%AB.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/instagram-shadowban-workaround-github-token-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/trex-metadata-removal-discord-backup-code.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sha3-sponge-twitter-oauth-token-theft.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%B3%D9%8A%D9%85%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%83%D8%B3%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D9%88%D8%AB%D9%88%D9%82-%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%87%D9%83%D8%B1-%D8%A3%D8%AE%D9%84%D8%A7%D9%82%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D9%88%D9%86-%D9%83%D9%84%D9%85%D8%A9-%D8%B3%D8%B1-burp-suite-%D8%A3%D8%AF%D8%A7%D8%A9-%D8%AA%D8%AC%D8%B3%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-dataflow-job-leak-ecdsa-mega-file-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-direct-connect-config-siege-call-interception-socat-ffuf.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-bigtable-table-dump-airbnb-payment-method.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/shsh-blob-military-leak-magisk-azure-app-service-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A-%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A7%D8%AD%D8%AA%D9%8A%D8%A7%D9%84%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D8%AF-%D8%AE%D8%B5%D9%85-%D8%AB%D8%BA%D8%B1%D8%A9-zerologon.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%A8%D8%A7%D9%8A-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%87%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rkflashkit-expresscard-attack-identity-theft-facebook-account.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cve-gitlab-private-repo-dump-pcloud-shared-link-leak-linkedin-osint.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D9%8A%D9%81%D8%A7%D9%8A-%D8%A8%D8%A7%D9%82%D8%A9-%D9%86%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D8%AF-%D8%AE%D8%B5%D9%85-%D8%B4%D8%AD%D9%86-%D9%85%D8%AC%D8%A7%D9%86%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spideroak-file-dump-silver-ticket-google-cloud-nat-mapping-leak-http-flood-shred.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AA%D8%AC%D8%B1-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/shelter-knockpy-nfc-magic-card.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/github-token-leak-discord-server-sticker-dump-bitlocker-tethered-deep-web-tiktok.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A8%D8%AF%D9%88%D9%86-%D8%A8%D8%A7%D9%82%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A-%D8%A8%D8%A7%D9%86%D9%84-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/digitalocean-dns-zone-dump-idea-gitlab-private.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D9%88%D8%B1%D9%83%D8%B1%D8%B2-%D9%83%D9%84%D8%A7%D9%88%D8%AF%D9%81%D9%84%D9%8A%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%83.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/box-file-dump-taurine-aws-s3-bucket-data.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D8%A7%D8%B3%D8%A8%D9%8A%D8%B1%D9%8A-%D8%A8%D8%A7%D9%8A-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%8A%D9%85%D9%8A%D9%84-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/lastpass-vultr-reddit-osint-instagram-followers-leak-instagram-private-photos-wa.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%83%D8%B1-%D9%81%D8%AF%D9%8A%D8%A9-%D8%A8%D8%A7%D9%88%D8%B1-%D8%A8%D8%A7%D9%86%D9%83-%D9%87%D8%A7%D9%83%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D9%85%D8%AA%D8%AC%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/azure-sql-database-dump-malicious-airdrop-ssn.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B5%D9%84%D8%A7%D8%AD%D9%8A%D8%A7%D8%AA-%D8%A3%D8%AF%D9%85%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D9%83%D8%B3%D8%B1-%D8%AD%D9%85%D8%A7%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%B4%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-api-%D9%85%D8%B3%D8%B1%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-firewall-rule-dump-malvertising-microsoft-graph-api-scrape-crypto-lea.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/burp-suite-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D9%86%D8%AF%D8%B1%D9%88%D9%8A%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%A7%D9%84%D8%AA%D8%B5%D9%8A%D8%AF-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-oracle-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D9%84%D8%A7%D9%83-%D8%A2%D8%B1%D8%AA%D8%B4.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/theharvester-telegram-channel-post-archive-vultr-block.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/iphone-jailbreak-apple-photos-leak-ovh-block-storage.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D9%84%D8%A5%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D8%AF%D9%81%D9%88%D8%B9%D8%A9-%D9%85%D8%AC%D8%A7%D9%86%D8%A7-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D8%A7%D9%88%D8%AA%D8%B1-%D9%87%D8%A7%D9%83-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%AA%D8%AC%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%A8%D9%8A%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AC%D9%8A%D9%85%D9%8A%D9%84.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/scaleway-firewall-rule-leak-sherlock-cloud-leak-age-wasm-hack-booking-hack.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B4%D8%B1%D8%AD-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%A8%D9%84%D8%A7%D8%BA-%D8%B9%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AD%D9%81%D8%B8%D8%A9-%D8%A3%D8%A8%D9%84.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-spectrum-config-leak-electra-satellite-hack-spring4shell-instantcheck.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/objection-netmap-evil-twin-google.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D9%81%D8%AA%D8%A7%D8%AD-api-%D9%85%D8%B3%D8%B1%D8%A8-nmap-%D8%AF%D9%8A%D8%B2%D9%86%D9%8A-%D8%A8%D9%84%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AB%D8%BA%D8%B1%D8%A9-bluekeep-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%84%D9%8A%D9%86%D9%83%D8%AF-%D8%A5%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/anonymity-fail-socks5-microsoft-azure.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D8%A7%D8%B4%D8%A7%D8%A8-%D8%AC%D9%87%D8%A7%D8%B2-%D8%B3%D9%83%D9%8A%D9%85%D8%B1-atm.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D9%88%D8%B1%D8%A7%D9%83%D9%84-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B9%D9%82%D8%AF-%D8%B0%D9%83%D9%8A-%D8%AB%D8%BA%D8%B1%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D9%83%D9%88%D8%AF-%D8%AA%D9%81%D8%B9%D9%8A%D9%84-%D9%85%D8%B3%D8%B1%D8%A8-%D9%87%D9%83%D8%B1-%D9%88%D8%A7%D8%AC%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vdles-microsoft-graph-api-scrape-zap-jenkins-leak-recovery.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-token-grabber-azure-app-service-leak-ovh-object-storage-bucket-leak-ngro.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%88%D9%83%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%81%D8%AA%D8%A7%D8%AD-ssh-%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8-%D8%B1%D8%B5%D9%8A%D8%AF-%D9%85%D8%AC%D8%A7%D9%86%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bitlocker-drill-cloudflare-zaraz-config-leak-yahoo.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/vultr-winrm-brute-eternalblue-prometheus-black.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B3%D8%AD%D8%A8-%D9%81%D9%84%D9%88%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D8%B1%D8%A7%D9%81-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D8%AA%D8%B9%D8%B1%D9%8A%D9%81-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%B1%D9%8A%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/semi-tethered-redis-brute-target-account-qfil-pentesting-pe-studio-burp.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-firestore-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%8A%D9%85%D9%8A%D9%84-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D9%82%D9%85-%D8%A7%D9%84%D8%AC%D9%88%D8%A7%D9%84-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sp-flash-tool-pktgen-rootkit-ovh-firewall-rule-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-webhook-spam-webmitm-printnightmare-rogue.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%A9-%D9%83%D8%A7%D8%B4%D9%8A%D8%B1-%D8%B3%D8%B1%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AE%D8%AF%D9%85%D8%A7%D8%AA-%D9%87%D8%A7%D9%83%D8%B1-%D9%84%D9%8A%D9%86%D9%83%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D8%AA%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D8%B1%D9%82%D8%A9-%D9%83%D9%88%D9%83%D9%8A%D8%B2-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D9%88%D8%AB%D9%88%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D8%A8%D9%8A%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-%D9%84%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%82%D8%AF%D9%8A%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D9%84%D8%A7%D9%88%D8%AF%D9%81%D9%84%D9%8A%D8%B1-%D9%83%D8%AA%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%AE%D8%AA%D8%A8%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AB%D8%BA%D8%B1%D8%A9-dirty-cow-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D9%87%D8%A7%D9%83%D8%B1-%D8%B3%D9%86%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/hetzner-load-balancer-config-frida-ios-dump-flyjb-linode-compute-instance.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/wifi-hacking-vidar-instana-tiktok.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D9%88%D9%85%D8%A8%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%83%D8%B4%D9%81-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-lex-bot-config-leak-smtp-relay-linkedin-2fa.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/imei-change-azure-redis-cache-leak-unicc-phishing-zoomeye-libsnark-sleuth.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-compilation-%D8%A7%D8%AF%D9%88%D8%A7%D8%AA-%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ad-audit-reddit-automod-config-dump-bitbox-cloudflare-waf-rule-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ellekit-netlify-google-cloud-router-config-docker.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D9%88%D8%AB%D9%88%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D9%84%D8%A7%D9%88%D8%AF%D9%81%D9%84%D9%8A%D8%B1-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/hetzner-esxi-cve-2024-29988-config-leak-router-attack-discord-backup-code-theft.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%AE%D8%AA%D8%B1%D9%82-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%AD%D9%83%D9%88%D9%85%D9%8A-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%A7%D9%88%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sql-dump-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-admin-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-sql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2023.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-server-ban-list-dump-icloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%84%D8%A7%D9%8A-%D8%B3%D8%AA%D9%8A%D8%B4%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-github.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AB%D8%BA%D8%B1%D8%A9-proxyshell-%D8%A8%D8%B1%D9%8A%D8%AF-%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A-%D9%85%D8%B3%D8%B1%D8%A8-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-mongodb-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%83%D9%88%D9%8A%D8%B1-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%86%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D9%81%D8%AF%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%8A-%D8%A8%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-gitlab-hydra-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%AE%D9%81%D9%8A-%D8%AB%D8%BA%D8%B1%D8%A9-text4shell-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF%D8%A7%D8%AA-%D8%A5%D9%8A%D9%85%D9%8A%D9%84-%D9%88%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/scaleway-database-cluster-dump-filza-onionland-amazon-customer-email-dump-dropbo.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cloudflare-web-analytics-data-bridge-exploit-discord-nitro-code-generator.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rubber-ducky-mobsf-twitter-phone-number-leak-apk-tool-keypad-brute.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cc-dump-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/polkit-magisk-hide-price-manipulation-code-injection-airbnb-calendar-scrape-aws.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/instagram-story-saver-bytecode-viewer-island-snusbase-pairing-crypto-instagram-a.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-ssh-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AF%D9%88%D9%86-%D9%83%D9%84%D9%85%D8%A9-%D8%B3%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-app-engine-code-dump.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B4%D8%AD%D9%86-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D9%87%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D9%88%D8%A8%D9%84%D9%83%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%88%D8%A7%D8%AA%D9%8A%D8%B1-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gatling-grey-hat-reddit-api-key-exposure-esxi-openssh-ios-google-cloud-cdn.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D8%B1%D9%82%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2021-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-heartbleed-%D8%B1%D8%A7%D8%A8%D8%B7-%D8%AA%D8%B5%D9%8A%D8%AF-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%87%D9%88%D9%84%D9%88-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%87%D9%88%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-kms-key-exposure-des-privesc-win-imsi-catcher.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/boom-session-sniff-scrambled-exif-cryptor-alerts.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%87%D9%83%D8%B1-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%AA%D9%87%D9%83%D9%8A%D8%B1-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%83%D8%A7%D9%85%D9%84-%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%D9%8A%D9%85-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%B4%D8%B1%D9%8A%D8%AD.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7-%D8%AE%D9%81%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B5%D8%B1%D8%A7%D9%81-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-azure-blob-%D9%85%D8%B3%D8%B1%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/https-proxy-ngrok-starlink-mod-discord-server-audit-log-leak-amazon.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/microsoft-exchange-data-dump-sdrsharp-snapchat-bitmoji-leak-ovh-object-storage.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/snake-keylogger-telegram-channel-data-leak-military-leak-rugpull-gate.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D8%B4%D9%81-%D8%AB%D8%BA%D8%B1%D8%A7%D8%AA-%D8%AA%D8%A8%D8%AF%D9%8A%D9%84-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-digitalocean-%D8%AE%D8%B5%D9%85-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%AE%D8%B5%D9%85-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D9%86%D8%B3%D8%AE-%D9%83%D8%A7%D8%B1%D8%AA-%D9%86%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/spring4shell-ntp-amplification-alarm-bark-xss-vm-detection.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/paper-wallet-linkedin-data-leak-aws-sqs-queue-message-dump-signal-hack-darknet.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-alexa-%D8%B5%D9%81%D8%AD%D8%A9-%D8%AA%D8%B5%D9%8A%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC-%D8%A8%D8%A7%D9%8A-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AF%D9%8A%D8%B2%D9%86%D9%8A-%D8%A8%D9%84%D8%B3-%D9%85%D8%AC%D8%A7%D9%86%D9%8A-%D8%B5%D9%88%D8%B1-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%A3%D8%AC%D9%88%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/fastboot-whitepages-webrtc-leak-reddit-nsfw-leak-spectre-siege.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/orange-fox-azure-key-vault-secret-dump-salsa20.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/keepass-ovh-object-storage-bucket-leak-snapchat-lens-abuse.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/cve-2023-20887-google-voice-leak-linode-api-token-leak-reddit-private-message.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/discord-webhook-gnss-spoofing-amd.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/github-action-log-leak-google-cloud-data-fusion-pipeline.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D9%8A%D9%85-%D8%A8%D8%A7%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B1%D9%88%D8%AC%D8%A7%D9%86-%D9%85%D8%B5%D8%B1%D9%81%D9%8A-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gpg-cryptsetup-portapack-apple-keychain-dump-alerts-eth.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%A8%D9%86%D9%83-%D8%B3%D8%B1%D9%82%D8%A9-%D9%82%D9%86%D8%A7%D8%A9-%D9%8A%D9%88%D8%AA%D9%8A%D9%88%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D8%AC-%D9%81%D8%AF%D9%8A%D8%A9-%D9%85%D8%B7%D9%84%D9%88%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-cloud-bucket-exposure-lan-turtle-drozer-tiktok-like-bot-srslte-logify-wha.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aws-comprehend-text-dump-packet-crafting-mitm6-dashlane-sqli-loki-pwnkit.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bruteforce-managed-device-aws-polly-speech-archive.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%D8%B3%D9%83%D9%86-%D9%85%D8%B3%D8%B1%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-vultr-%D8%A5%D9%83%D8%B3%D8%A8%D9%84%D9%88%D9%8A%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/evil-portal-cve-2023-20887-reentrancy-aws-ec2-ami-leak-snusbase.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/tendermint-consensus-hid-iclass-box.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/bohemia-market-github-page-leak-yahoo-messenger-leak-xxe.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gps-spoofing-nosql-injection-ovh-cloud-database-dump-load.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/anonymity-fail-sish-spotify-upgrade-srslte-yubikey-autopsy.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/noslowanimations-theharvester-business-records-adware-passive-dns-yahoo-security.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D8%B1%D9%82%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%AB%D8%BA%D8%B1%D8%A9-proxyshell-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B9%D9%82%D8%AF-%D8%B0%D9%83%D9%8A-%D9%87%D9%83%D8%B1-%D8%A8%D9%8A%D9%86%D8%A7%D9%86%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rustscan-pyboot-microsoft-exchange-data-dump-google-cloud-jupyter-notebook-leak.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D8%B1%D8%A7%D9%85%D8%AC-%D8%AA%D8%AC%D8%B3%D8%B3-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-2020-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6-%D9%85%D9%83%D8%A7%D9%84%D9%85%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D9%8A%D9%85-%D8%A8%D8%A7%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%AC%D9%84%D8%B3%D8%A9-%D9%84%D9%88%D8%AD%D8%A9-%D8%AA%D8%AD%D9%83%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B9%D9%86-%D8%B7%D8%B1%D9%8A%D9%82-ss7-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-rockyou-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D9%86%D8%B3%D8%AA%D8%BA%D8%B1%D8%A7%D9%85-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/rootful-jailbreak-word-metadata-ssl-kill-switch-juicy-potato.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A5%D9%83%D8%B3%D8%A8%D9%84%D9%88%D9%8A%D8%AA-%D8%B3%D8%B1%D9%82%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%AB%D8%BA%D8%B1%D8%A9-%D8%AC%D9%84%D8%B3%D8%A9-%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%8A-%D9%84%D9%8A%D9%86%D9%83%D8%B3.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%84%D9%8A%D9%86%D9%83%D8%AF-%D8%A5%D9%86-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D9%88%D9%88%D8%B1%D8%AF%D8%A8%D8%B1%D9%8A%D8%B3-%D8%B7%D8%B1%D9%8A%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/pongoos-cryptor-openssh-ios-box-shared-link-leak-marauder-cve-2023-20887.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/dfu-mode-discord-server-sticker-dump-root-cloak-google-cloud.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%83%D8%A7%D8%A8%D9%84-%D9%87%D8%A7%D9%83%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AC%D9%8A-%D8%A8%D9%8A-%D8%A5%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D8%B1%D9%8A%D8%B2%D9%88%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%AF%D8%A7%D8%A9-%D8%AA%D8%AC%D8%B3%D8%B3-%D9%82%D8%B1%D8%A7%D8%A1%D8%A9-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-nfc-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D9%85%D8%B9%D8%AF%D9%84-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%AE%D9%81%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-github-dork-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/aireplay-slowloris-gobuster-cve-2024-29988-google-calendar-event-leak-futurerest.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AF%D8%B1%D9%88%D9%86-%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-rockyou-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-vercel-%D8%B7%D9%84%D8%A8-%D8%A7%D8%AE.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/db-dump-binaryedge-amazon-kindle-library-dump-tresorit-share-link-leak-bleachbit.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-github-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A2%D9%8A%D9%81%D9%88%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D8%A8%D9%84-%D9%88%D9%88%D9%84%D9%8A%D8%AA-%D8%AA%D8%A3%D9%85%D9%8A%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%B7%D9%84%D9%88%D8%A8-%D9%87%D9%83%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/google-bigtable-table-dump-facebook-breach-apple-m4-ebay.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A3%D8%AF%D8%A7%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AF%D8%A7%D8%AA%D8%A7-%D9%84%D9%8A%D9%83-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D9%85%D8%B1%D9%88%D8%B1-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D8%A8%D9%84%D8%A7%D9%83-%D8%A2%D8%B1%D8%AA%D8%B4.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%87%D9%88%D9%8A%D8%A9-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%87%D9%84-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%D9%8A-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D9%84-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%B9%D8%B1%D9%88%D9%81-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-digitalocean-%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82-%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86-%D8%AA%D8%AE%D8%B2%D9%8A%D9%86-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D9%85%D9%88%D9%82%D8%B9-%D8%AA%D8%A8%D9%84%D9%8A%D8%BA-%D8%B9%D9%86-%D9%87%D8%A7%D9%83%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/amazon-customer-email-dump-image-metadata-vanity-address-timelock.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D8%B9%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-hetzner.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D8%A8%D9%84-%D9%88%D9%88%D9%84%D9%8A%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B3%D8%AD%D8%A7%D8%A8%D8%A9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nosql-injection-rar-encryption-ngrep-tethered.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/intezer-signoz-flex-patch-zebra-maltego-snapchat-location-leak-icleaner.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/selfdestruct-google-cloud-source-repo-dump-open-bucket-onionland-linkedin-connec.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/ovh-managed-kubernetes-kubeconfig-spotify-follower-bot-interactsh-access.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%81%D9%8A%D8%B2%D8%A7-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%AA%D9%88%D9%83%D9%86-github-dork-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D8%A9-%D8%B1%D9%88%D8%A8%D9%84%D9%88%D9%83%D8%B3-%D8%AA%D9%87%D9%83%D9%8A%D8%B1.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%A8%D8%AF%D9%8A%D9%84-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B1%D9%8A%D8%AF%D9%8A%D8%AA-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B9%D9%85%D9%84%D8%A9-%D8%B1%D9%82%D9%85%D9%8A%D8%A9-%D9%85%D8%B3%D8%B1%D9%88%D9%82%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D9%88%D8%A8%D9%88%D9%86-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%87%D8%AF%D8%A7%D9%8A%D8%A7-%D8%A3%D9%85%D8%A7%D8%B2%D9%88%D9%86-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%88%D9%82%D8%B9-%D8%AA%D8%B3%D9%88%D9%82-%D9%87%D8%A7%D9%83%D8%B1-%D9%88%D8%A7%D9%8A-%D9%81%D8%A7%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%AA%D8%A3%D9%83%D9%8A%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%B3%D9%88%D8%B1%D8%AF-%D8%B3%D8%AD%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%86%D8%AA%D9%81%D9%84%D9%8A%D9%83%D8%B3-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AF%D8%B1%D9%88%D9%86-%D9%88%D9%8A%D9%86%D8%AF%D9%88%D8%B2-%D9%84%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%83%D8%A7%D9%85-%D8%AE%D9%81%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%AA%D8%AC%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D9%83%D9%88%D9%85%D8%A8%D9%88-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA-%D9%85%D9%87%D9%83%D8%B1%D8%A9-%D9%87%D8%A7%D9%83%D8%B1-%D9%85%D8%AD%D9%85%D9%88%D9%84-wpscan-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%B1%D9%82%D9%85.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%B3%D9%8A%D8%B1%D9%81%D8%B1%D8%A7%D8%AA-%D9%85%D8%AE%D8%AA%D8%B1%D9%82%D8%A9-%D9%83%D8%A7%D9%84%D9%8A%D9%81%D9%8A-%D9%84%D9%8A%D9%86%D9%83%D8%B3-%D8%AA%D8%B3%D8%B1%D9%8A%D8%A8-linode-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D9%85%D9%86%D8%AA%D8%AF%D9%89-%D8%A5%D9%83%D8%B3%D8%A8%D9%84%D9%88%D9%8A.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%85%D8%AE%D8%AA%D8%A8%D8%B1-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D8%B7%D8%A7%D9%82%D8%A9-%D9%85%D8%B3%D8%A8%D9%82%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%B9.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D9%86%D8%A7%D8%A8-%D8%B4%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%B3%D8%AD%D8%A8-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D9%84%D9%81.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/gate-code-conti-scaleway-object-storage.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9-%D8%AD%D8%B3%D8%A7%D8%A8-%D9%85%D8%AE%D8%AA%D8%B1%D9%82-%D8%A8%D8%AB-%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%D8%AA-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%84%D9%88%D8%AC%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/nikto-%D8%A8%D8%B7%D8%A7%D9%82%D8%A7%D8%AA-%D8%B4%D8%AD%D9%86-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AA%D9%88%D9%83%D9%8A%D9%86-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%8A%D9%86%D8%A7%D9%86%D8%B3-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A3%D8%A8%D9%84-%D9%88%D9%88%D9%84%D9%8A%D8%AA.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/sha3-sponge-whatsapp-group-member-leak-bls12-381-pass-the-hash-aws.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/pcloud-shared-link-leak-rdrand-linode-dns-zone-transfer.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-mysql-%D9%85%D8%B3%D8%B1%D8%A8%D8%A9-%D8%AC%D9%8A%D9%84%D8%A8%D8%B1%D9%8A%D9%83-%D8%AB%D8%BA%D8%B1%D8%A9-spring4shell.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://test-service-catalog.internal.altana.ai/iem/ben/%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A8%D9%86%D9%83-%D8%A3%D8%AF%D8%A7%D8%A9-%D8%AA%D8%AC%D8%B3%D8%B3-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D8%AA%D8%A8%D8%AF%D9%8A%D9%84-%D8%B4%D8%B1%D9%8A%D8%AD%D8%A9-%D8%A3%D8%AF%D8%A7%D8%A9-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82-%D8%B3%D9%8A%D8%B1%D9%81%D8%B1-%D8%AF%D9%8A%D8%B3%D9%83%D9%88%D8%B1%D8%AF.html</loc>
+    <lastmod>2026-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
