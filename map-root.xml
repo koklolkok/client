@@ -45,4 +45,9 @@
     <loc>https://test-service-catalog.internal.altana.ai/map-extra8.xml</loc>
     <lastmod>2026-04-21</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://test-service-catalog.internal.altana.ai/map-extra9.xml</loc>
+    <lastmod>2026-04-21</lastmod>
+  </sitemap>
 </sitemapindex>
