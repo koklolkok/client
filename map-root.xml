@@ -150,4 +150,9 @@
     <loc>https://test-service-catalog.internal.altana.ai/map-extra29.xml</loc>
     <lastmod>2026-05-04</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://test-service-catalog.internal.altana.ai/map-extra30.xml</loc>
+    <lastmod>2026-05-04</lastmod>
+  </sitemap>
 </sitemapindex>
