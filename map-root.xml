@@ -230,4 +230,9 @@
     <loc>https://test-service-catalog.internal.altana.ai/map-extra45.xml</loc>
     <lastmod>2026-05-16</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://test-service-catalog.internal.altana.ai/map-extra46.xml</loc>
+    <lastmod>2026-05-16</lastmod>
+  </sitemap>
 </sitemapindex>
