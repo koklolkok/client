@@ -360,4 +360,9 @@
     <loc>https://test-service-catalog.internal.altana.ai/map-extra71.xml</loc>
     <lastmod>2026-06-11</lastmod>
   </sitemap>
+
+  <sitemap>
+    <loc>https://test-service-catalog.internal.altana.ai/map-extra72.xml</loc>
+    <lastmod>2026-06-11</lastmod>
+  </sitemap>
 </sitemapindex>
